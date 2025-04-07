@@ -11,8 +11,7 @@ Example Adaptive card for Delivery tracking
 ## JSON Code
 [DeliveryTrackingCard.json](DeliveryTrackingCard.json)
 
-
-Inline `code` has `{
+ `{
     "type": "AdaptiveCard",
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
     "version": "1.5",
