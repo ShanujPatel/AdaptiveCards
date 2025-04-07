@@ -2,7 +2,7 @@
 Example Adaptive card for Delivery tracking
 
 
- <img src="DeliveryTrackingExample-image.png" align="center" width="50%"/>
+ <img src="DeliveryTrackingExample-image.png" align="right" width="50%"/>
  
 
 
