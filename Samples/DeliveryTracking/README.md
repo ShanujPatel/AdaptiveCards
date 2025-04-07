@@ -6,5 +6,7 @@ Example Adaptive card for Delivery tracking
  
 
 
+
+
 ## JSON Code
 [DeliveryTrackingCard.json](DeliveryTrackingCard.json)
