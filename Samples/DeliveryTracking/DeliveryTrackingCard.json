@@ -5,7 +5,7 @@
     "body": [
         {
             "type": "TextBlock",
-            "text": "Your 3D Order Update\n",
+            "text": "Your 3D Order Update",
             "wrap": true,
             "style": "heading",
             "separator": true,
