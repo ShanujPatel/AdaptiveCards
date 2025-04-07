@@ -45,7 +45,7 @@
                             "items": [
                                 {
                                     "type": "TextBlock",
-                                    "text": "Recipent",
+                                    "text": "Recipient",
                                     "wrap": true
                                 }
                             ],
